@@ -1,4 +1,6 @@
-> Sic parvis magna
+# > *Sic parvis magna*
+
+*La grandeza nace de pequeños comienzos*
 <!--
 **GorrionJS/GorrionJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
